@@ -1,0 +1,13 @@
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\bin\Debug\netcoreapp3.1\vetorclase.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\bin\Debug\netcoreapp3.1\vetorclase.deps.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\bin\Debug\netcoreapp3.1\vetorclase.runtimeconfig.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\bin\Debug\netcoreapp3.1\vetorclase.runtimeconfig.dev.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\bin\Debug\netcoreapp3.1\vetorclase.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\bin\Debug\netcoreapp3.1\vetorclase.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\obj\Debug\netcoreapp3.1\vetorclase.csprojAssemblyReference.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\obj\Debug\netcoreapp3.1\vetorclase.csproj.CoreCompileInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\obj\Debug\netcoreapp3.1\vetorclase.AssemblyInfoInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\obj\Debug\netcoreapp3.1\vetorclase.AssemblyInfo.cs
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\obj\Debug\netcoreapp3.1\vetorclase.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\obj\Debug\netcoreapp3.1\vetorclase.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\vetorclase\obj\Debug\netcoreapp3.1\vetorclase.genruntimeconfig.cache
